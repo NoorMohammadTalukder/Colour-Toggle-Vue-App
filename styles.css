@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Jost", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: rgba(46, 164, 161, 0.559);
+}
+h1{
+    text-align: center;
+}
+.toggle {
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+  padding: 10px;
+  height: 200px;
+  text-align: center;
+  margin-top: 20px;
+}
+.active{
+    background-color: blueviolet;
+}
+.active2{
+    background-color: red;
+}
+.active3{
+    background-color: green;
+}
+.active4{
+    background-color: coral;
+}
